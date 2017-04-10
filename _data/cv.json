@@ -1,0 +1,52 @@
+{
+  "basics": {
+    "name": "Changyang Li",
+    "label": "A coder",
+    "picture": "",
+    "email": "changyangli10@gmail.com",
+    "website": "https://changyangli.github.io/",
+    "summary": "Changyang is a senior student in Computer Science at BIT.",
+  },
+  "education": [
+    {
+      "institution": "Beijing Institute of Technology",
+      "area": "Computer Science and Technology",
+      "studyType": "B.S.",
+      "startDate": "Sep.2013",
+      "endDate": "Jul.2017(Expected)",
+    }
+  ],
+  "publications": [
+    {
+      "name": "Earthquake Safety Training through Virtual Drills",
+      "publisher": "IEEE Transactions on Visualization and Computer Graphics(Special Issue on IEEE VR 2017)",
+      "website": "http://www.cs.umb.edu/~craigyu/project_pages/vr17_projectpage/earthquake.html",
+      "summary": "Introduce VR devices to provide an immersive virtual reality earthquake safety training approach"
+    },
+	{
+      "name": "Joint Labelling and Segmentation for 3D Scanned Human Body",
+      "publisher": "SIGGRAPH ASIA 2016 Workshop : Virtual Reality meets Physical Reality",
+      "summary": "Present an approach to perform 3D human body labelling and segmentation jointly"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming languages",
+      "keywords": [
+        "C",
+        "C++",
+        "C#",
+		"JAVA",
+		"Matlab",
+		"LaTeX"
+      ]
+    },
+    {
+      "name": "Game Engine",
+      "keywords": [
+        "Unity 3D",
+        "Unreal engine 4"
+      ]
+    }
+  ],
+}
