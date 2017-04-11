@@ -19,19 +19,22 @@
   "publications": [
     {
       "name": "Earthquake Safety Training through Virtual Drills",
-      "publisher": "IEEE Transactions on Visualization and Computer Graphics(Special Issue on IEEE VR 2017)",
-      "website": "http://www.cs.umb.edu/~craigyu/project_pages/vr17_projectpage/earthquake.html",
+	  "author": "<b><u>Changyang Li</u></b>, Wei Liang, Chris Quigley, Yibiao Zhao, Lap-Fai Yu",
+      "publisher": "IEEE Transactions on Visualization and Computer Graphics<br>(Special Issue on IEEE VR 2017)",
+      "website": "../assets/projects/vr17earthquake/earthquake.html",
       "summary": "Introduce VR devices to provide an immersive virtual reality earthquake safety training approach"
     },
 	{
       "name": "Joint Labelling and Segmentation for 3D Scanned Human Body",
+	  "author": "Hanqing Wang, <b><u>Changyang Li</u></b>, Zikai Gao, Wei Liang",
       "publisher": "SIGGRAPH ASIA 2016 Workshop : Virtual Reality meets Physical Reality",
+	  "website": "../assets/projects/siga16graphcut/graphcut.html",
       "summary": "Present an approach to perform 3D human body labelling and segmentation jointly"
     }
   ],
   "skills": [
     {
-      "name": "Programming languages",
+      "name": "Programming language",
       "keywords": [
         "C",
         "C++",
