@@ -34,7 +34,7 @@ layout: page
 										<a href="http://www.stat.ucla.edu/~ybzhao/">Yibiao Zhao</a>,
 										<a href="http://www.cs.umb.edu/~craigyu/">Lap-Fai Yu</a>
 										<br>
-                                        <i>IEEE Virtual Reality 2017</i>
+                                        <i>IEEE Transactions on Visualization and Computer Graphics <br> (Special Issue on IEEE Virtual Reality 2017)</i>
                                     </p>
 									<img src="\assets\projects\vr17earthquake\earthquake.gif" class="img-thumbnail">
 									<br><br>
