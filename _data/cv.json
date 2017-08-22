@@ -9,11 +9,18 @@
   },
   "education": [
     {
+      "institution": "University of Verginia",
+      "major": "Computer Science",
+      "studyType": "M.S.",
+      "startDate": "Aug.2017",
+      "endDate": "Dec.2018(Expected)",
+    }
+	{
       "institution": "Beijing Institute of Technology",
-      "area": "Computer Science and Technology",
+      "major": "Computer Science and Technology",
       "studyType": "B.S.",
       "startDate": "Sep.2013",
-      "endDate": "Jul.2017(Expected)",
+      "endDate": "Jul.2017",
     }
   ],
   "publications": [
