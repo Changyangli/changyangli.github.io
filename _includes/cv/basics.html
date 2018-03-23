@@ -11,7 +11,10 @@
 
   <div class="entry-content">
     {% if cv.basics.email %}
-      <div class="email"><strong>Email</strong> <a href="mailto:{{ cv.basics.email }}">{{ cv.basics.email }}</a></div>
+      <div class="email1"><strong>Personal Email</strong> <a href="mailto:{{ cv.basics.email }}">{{ cv.basics.email }}</a></div>
+    {% endif %}
+    {% if cv.basics.email %}
+      <div class="email2"><strong>UVA Email</strong> <a href="mailto:{{ cv.basics.email }}">{{ cv.basics.email }}</a></div>
     {% endif %}
     {% if cv.basics.phone %}
       <div class="phone"><strong>Phone</strong> {{ cv.basics.phone }}</div>
