@@ -1,42 +1,25 @@
+---
+layout: compress
+---
 <!DOCTYPE html>
-<!--
-    Basically Basic Jekyll Theme 1.1.0
-    Copyright 2017 Michael Rose - mademistakes.com | @mmistakes
-    Free for personal and commercial use under the MIT license
-    https://github.com/mmistakes/jekyll-basically-theme/blob/master/LICENSE.md
--->
-<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}" class="no-js">
-  {% include head.html %}
+<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->  
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->  
+<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->  
+{% include head.html %}
 
-  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %} {{ page.title | slugify }}">
+<body>
+  <div class="wrapper">
+    {% include sidebar.html %}
 
-    {% include skip-links.html %}
-
-    <div class="sidebar-toggle-wrapper">
-      <button class="toggle navicon-button larr" type="button">
-        <span class="toggle-inner">
-          <span class="sidebar-toggle-label">{{ site.data.theme.t.menu | default: 'Menu' }}</span>
-          <span class="navicon"></span>
-        </span>
-      </button>
-    </div>
-
-    <div id="sidebar" class="sidebar">
-      <div class="inner">
-        {% include navigation.html %}
-        {% include contact-list.html %}
-      </div>
-    </div>
-
-    <div class="canvas">
-      <div class="wrapper">
-        {% include masthead.html %}
+    <div class="main-wrapper">
         {{ content }}
-      </div>
     </div>
+  </div>
 
-    {% include scripts.html %}
+  {% include footer.html %}
 
-  </body>
+{% include scripts.html %}
+</body>
 
 </html>
+

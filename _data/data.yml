@@ -1,0 +1,118 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output. 
+#
+
+sidebar:
+    #about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Changyang Li
+    tagline: University of Virginia
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: changyangli10@gmail.com
+    #phone: 
+    website: changyangli.github.io
+    #linkedin:
+    #github:
+    #gitlab:
+    #bitbucket:
+    #twitter:
+    #stack-overflow:
+    #codewars:
+        
+    interests:
+      - item: Soccer
+
+      - item: Cooking
+
+career-profile:
+    title: About Me
+    summary: |
+      I am currently a Master student in Computer Science at University of Virginia. I received my Bachelor degree in Computer Science at Beijing Institute of Technology, jointly advised by Professor <a href="http://iitlab.bit.edu.cn/mcislab/~liangwei/">Wei Liang</a> and Professor <a href="http://www.cs.umb.edu/~craigyu/"> Lap-Fai Yu</a>.
+
+      My research interests include computer vision, computer graphics, artificial intelligence and virtual reality.
+      
+      [<a href="../assets/cv/li_cv.pdf">CV</a>] [<a href="https://scholar.google.com/citations?user=Zbx-YuUAAAAJ&hl=en">Google Scholar</a>]
+
+education:
+    - degree: MCS in Computer Science
+      university: University of Virginia
+      time: 2017 - 2018
+
+    - degree: BS in Computer Science
+      university: Beijing Institute of Technology
+      time: 2013 - 2017
+      
+publications:
+    title: Publications
+    #intro: |
+    #  You can list your publications in this section. Lorem ipsum dolor sit
+    #  amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #  bibendum fringilla a eu lectus.
+
+    papers:
+      - title: Earthquake Safety Training through Virtual Drills
+        authors: <b>Changyang Li</b>, <a href="http://iitlab.bit.edu.cn/mcislab/~liangwei/">Wei Liang</a>, Chris Quigley, <a href="http://www.stat.ucla.edu/~ybzhao/">Yibiao Zhao</a>, <a href="http://www.cs.umb.edu/~craigyu/">Lap-Fai Yu</a>
+        conference: IEEE Transactions on Visualization and Computer Graphics <br> (Special Issue on IEEE Virtual Reality 2017)
+
+      - title: Joint Labelling and Segmentation for 3D Scanned Human Body
+        authors: Hanqing Wang, <b>Changyang Li</b>, Zikai Gao, <a href="http://iitlab.bit.edu.cn/mcislab/~liangwei/">Wei Liang</a>
+        conference: SIGGRAPH ASIA 2016 Workshop - Virtual Reality meets Physical Reality
+
+experiences:  
+    - role: Summer research intern, supervised by Prof. <a href="http://www.stat.ucla.edu/~sczhu/">Song-Chun Zhu</a>
+      time: 5/2018 - 8/2018
+      company: <a href="http://vcla.stat.ucla.edu/index.html">Center for Vision, Cognition, Learning, and Autonomy</a>, University of California, Los Angeles
+      details: |
+        Worked on an artificial intelligence and virtual reality related project
+
+    - role: Undergraduate student, supervised by Prof. <a href="http://iitlab.bit.edu.cn/mcislab/~liangwei/">Wei Liang</a>
+      time: 6/2015 - 8/2017
+      company: <a href="http://iitlab.bit.edu.cn/mcislab/e_index.php">Media Computing and Intelligent Systems Lab</a>, Beijing Institute of Technology
+      details: |
+        Worked on a few computer vision, computer graphics, virtual reality and cognitive science related projects, including <i>Earthquake Safety Training through Virtual Drills</i> and <i>Joint Labelling and Segmentation for 3D Scanned Human Body</i>
+
+    - role: Summer research intern, supervised by Prof. <a href="http://www.cs.umb.edu/~craigyu/">Lap-Fai Yu</a>
+      time: 7/2016 - 8/2016
+      company: Graphics and Virtual Environments Lab, University of Massachusetts Boston
+      details: |
+        Worked on project <i>Earthquake Safety Training through Virtual Drills</i>
+          
+projects:
+    title: Other Experiences
+
+    assignments:
+      - title: IEEE Virtual Reality conference 2019
+        #link: "#hook"
+        tagline: "<b>Paper reviewer</b>"
+    
+      - title: IEEE Virtual Reality conference 2018
+        #link: "#hook"
+        tagline: "<b>Paper reviewer</b>"
+
+      - title: CS 2150 - Program and Data Representation
+        #link: "#"
+        tagline: "<b>Teaching assistant</b>, University of Virginia, Fall 2018"
+        
+      - title: CS 4630 - Defense Against the Dark Arts
+        #link: "#"
+        tagline: "<b>Teaching assistant</b>, University of Virginia, Fall 2018"
+
+      - title: CS 4710 - Artificial Intelligence
+        #link: "#"
+        tagline: "<b>Teaching assistant</b>, University of Virginia, Spring 2018"
+
+
+skills:
+    title: Skills 
+    #&amp; Proficiency
+
+    toolset:
+      - name: <b>Programming languages:</b>  C, C++, C#, Python, Java
+
+      - name: <b>Deep Learning Frameworks:</b>  Pytorch, Keras, Tensorflow
+
+      - name: <b>Game Engines:</b>  Unity 3D, Unreal Engine 4
