@@ -35,12 +35,12 @@ career-profile:
 
       My research interests include computer vision, computer graphics, artificial intelligence and virtual reality.
       
-      [<a href="../assets/cv/li_cv.pdf">CV</a>] [<a href="https://scholar.google.com/citations?user=Zbx-YuUAAAAJ&hl=en">Google Scholar</a>]
+      [<a href="../assets/cv/cv.pdf">CV</a>] [<a href="https://scholar.google.com/citations?user=Zbx-YuUAAAAJ&hl=en">Google Scholar</a>]
 
 education:
     - degree: MCS in Computer Science
       university: University of Virginia
-      time: 2017 - 2018
+      time: 2017 - 2019
 
     - degree: BS in Computer Science
       university: Beijing Institute of Technology
@@ -54,11 +54,11 @@ publications:
     #  bibendum fringilla a eu lectus.
 
     papers:
-      - title: Earthquake Safety Training through Virtual Drills
+      - title: Earthquake Safety Training through Virtual Drills[<a href="../assets/pub/vr17earthquake.pdf">pdf</a>]
         authors: <b>Changyang Li</b>, <a href="http://iitlab.bit.edu.cn/mcislab/~liangwei/">Wei Liang</a>, Chris Quigley, <a href="http://www.stat.ucla.edu/~ybzhao/">Yibiao Zhao</a>, <a href="http://www.cs.umb.edu/~craigyu/">Lap-Fai Yu</a>
         conference: IEEE Transactions on Visualization and Computer Graphics <br> (Special Issue on IEEE Virtual Reality 2017)
 
-      - title: Joint Labelling and Segmentation for 3D Scanned Human Body
+      - title: Joint Labelling and Segmentation for 3D Scanned Human Body[<a href="../assets/pub/siga16graphcut.pdf">pdf</a>]
         authors: Hanqing Wang, <b>Changyang Li</b>, Zikai Gao, <a href="http://iitlab.bit.edu.cn/mcislab/~liangwei/">Wei Liang</a>
         conference: SIGGRAPH ASIA 2016 Workshop - Virtual Reality meets Physical Reality
 
