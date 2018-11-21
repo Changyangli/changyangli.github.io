@@ -38,7 +38,7 @@ career-profile:
       [<a href="../assets/cv/cv.pdf">CV</a>] [<a href="https://scholar.google.com/citations?user=Zbx-YuUAAAAJ&hl=en">Google Scholar</a>]
 
 education:
-    - degree: MCS in Computer Science
+    - degree: MS in Computer Science
       university: University of Virginia
       time: 2017 - 2019
 
@@ -67,7 +67,7 @@ experiences:
       time: 5/2018 - 8/2018
       company: <a href="http://vcla.stat.ucla.edu/index.html">Center for Vision, Cognition, Learning, and Autonomy</a>, University of California, Los Angeles
       details: |
-        Worked on an artificial intelligence and virtual reality related project
+        Worked on an artificial intelligence， reinforcement learning and virtual reality related project
 
     - role: Undergraduate student, supervised by Prof. <a href="http://iitlab.bit.edu.cn/mcislab/~liangwei/">Wei Liang</a>
       time: 6/2015 - 8/2017
@@ -92,12 +92,12 @@ projects:
       - title: IEEE Virtual Reality conference 2018
         #link: "#hook"
         tagline: "<b>Paper reviewer</b>"
-
-      - title: CS 2150 - Program and Data Representation
-        #link: "#"
-        tagline: "<b>Teaching assistant</b>, University of Virginia, Fall 2018"
         
       - title: CS 4630 - Defense Against the Dark Arts
+        #link: "#"
+        tagline: "<b>Teaching assistant</b>, University of Virginia, Fall 2018"
+
+      - title: CS 2150 - Program and Data Representation
         #link: "#"
         tagline: "<b>Teaching assistant</b>, University of Virginia, Fall 2018"
 
