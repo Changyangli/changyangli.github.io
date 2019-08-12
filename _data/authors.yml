@@ -1,0 +1,72 @@
+# The primary author of this blog.
+# Must be the same as `author` in `_config.yml`.
+# Change `author1` to your shortname.
+author1:
+  name:              Changyang Li
+  email:             cli25@gmu.edu
+
+  # Used at the bottom of each page and at the top of the `about` layout
+  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
+  about:             |
+    I am a first year Ph.D. student in Computer Science at George Mason University (GMU). I work as a Graduate Research Assistant at the Design Computing and Extended Reality (DCXR) Group, advised by [Prof. Lap-Fai Yu][yu]. Before joining GMU, I received my MCS degree in Computer Science at the University of Virginia, and BS degree in Computer Science at Beijing Institute of Technology.
+    
+    My research interests include computer vision, computer graphics, artificial intelligence and virtual reality.
+    
+    [[CV]][cv]
+    [[Google Scholar]][scholar]
+
+    [cv]: /assets/cv/cv.pdf
+    [scholar]: https://scholar.google.com/citations?user=Zbx-YuUAAAAJ&hl=en
+    [yu]: https://craigyuyu.github.io/home/index.html
+
+  # This photo will be used in the about section
+  #picture:
+  #  path:            https://placehold.it/128x128
+    # srcset is optional, but can be used to provide higher res versions for retina displays
+  #  srcset:
+  #    1x:            https://placehold.it/128x128
+  #    2x:            https://placehold.it/256x256
+
+  # Social media icons in sidebar
+  # Comment/uncommet to show/hide
+  # Rearrange to change the order in which they appear
+  social:
+    #twitter:         <username>
+    github:          Changyangli
+    email:           cli25@gmu.edu
+    # rss:             https://<url>/feed.xml
+    # facebook:        <username>
+    # google:          <number>
+    # vk:              <username>
+    # youtube:         <string_string_string>
+    # vimeo:           <username>
+    # vine:            <username>
+    # spotify:         <user>/<number>
+    # soundcloud:      <username>
+    # lastfm:          <username>
+    # instagram:       <username>
+    # flickr:          <string@string>
+    # 500px:           <username>
+    # dribbble:        <username>
+    # behance:         <username>
+    # deviantart:      <username>
+    # ello:            <username>
+    # twitch:          <username>
+    # steam:           <number>
+    # reddit:          <username>
+    # tumblr:          <username>
+    # pinterest:       <username>
+    # foursquare:      <number>
+    # yelp:            <string>
+    # stackoverflow:   <number/username>
+    # npm:             <username>
+    # hackernews:      <username>
+    # trello:          <firstnamelastname>
+    # linkedin:        <firstname-lastname-string>
+    # xing:            <firstname_lastname_counter>
+    # blogger:         <number>
+    # delicious:       <username>
+    # stumbleupon:     <username>
+    # paypal:          <username>
+    # download:        <url>
+
