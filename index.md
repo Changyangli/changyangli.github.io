@@ -8,6 +8,8 @@ cover: false
 
 # News
 
+* [August 2021] One Paper accepted by ACM SIGGRAPH Asia 2021.
+* [April 2021] One Paper accepted by Frontiers in Virtual Reality.
 * [June 2019] One Paper accepted by IROS 2019.
 * [May 2019] I receive my MCS degree in Computer Science at the University of Virginia.
 * [April 2019] I will join [Prof. Lap-Fai Yu][yu]'s group as a Ph.D. student starting from August 2019.
