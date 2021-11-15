@@ -30,7 +30,7 @@ cover: false
             <em>ACM Transactions on Graphics (Proceeding of SIGGRAPH Asia 2020)</em><br>
             <a href="/assets/paper/siga21teleport.pdf">[Paper]</a>
             <a href="/assets/paper/siga21teleport_supp.pdf">[Supplementary Material]</a>
-            <a href="https://www.youtube.com/watch?v=DlN9BJHGeyc">[Video]</a>
+            <a href="https://www.youtube.com/watch?v=GzZ65TkGnC0">[Video]</a>
             <a href="/projects/siga21teleport/project.html">[Project]</a> 
         </td>						
     </tr>
