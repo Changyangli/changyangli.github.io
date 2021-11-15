@@ -41,7 +41,7 @@ cover: false
         <td valign="top" style="border: 0px;">
             <strong>A Review on Virtual Reality Skill Training Applications</strong><br>
             Biao Xie, Huimin Liu, Rawan Alghofaili, Yongqi Zhang, Yeling Jiang, Flavio Destri Lobo,
-            <strong>Changyang Li</strong>*,<br>
+            <strong>Changyang Li</strong>,<br>
             Wanwan Li, Haikun Huang, Mesut Akdere, Christos Mousas,
             <a href="https://craigyuyu.github.io/home/index.html">Lap-Fai Yu</a><br>
             <em>Frontiers in Virtual Reality 2021</em><br>
