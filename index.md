@@ -19,6 +19,38 @@ cover: false
 <table>
     <tr>
         <td valign="top" width="255px" style="border: 0px;">
+            <img src="assets/img/pub/siga21teleport.jpg" width="255">
+        </td>
+        <td valign="top" style="border: 0px;">
+            <strong>Synthesizing Scene-Aware Virtual Reality Teleport Graphs</strong><br>
+            <strong>Changyang Li</strong>,
+            <a href="https://quincyhuang.github.io/Webpage/">Haikun Huang</a>,
+            <a href="https://cs.gmu.edu/~jmlien/doku.php">Jyh-Ming Lien</a>,
+            <a href="https://craigyuyu.github.io/home/index.html">Lap-Fai Yu</a><br>
+            <em>ACM Transactions on Graphics</em><br>
+            <em>(Proceeding of SIGGRAPH Asia 2020)</em><br>
+            <a href="/assets/paper/siga21teleport.pdf">[Paper]</a>
+            <a href="/assets/paper/siga21teleport_supp.pdf">[Supplementary Material]</a>
+            <a href="https://www.youtube.com/watch?v=DlN9BJHGeyc">[Video]</a>
+            <a href="/assets/projects/siga21teleport/project.html">[Project]</a> 
+        </td>						
+    </tr>
+    <tr>
+        <td valign="top" width="255px" style="border: 0px;">
+            <img src="assets/img/pub/survey.jpg" width="255">
+        </td>
+        <td valign="top" style="border: 0px;">
+            <strong>A Review on Virtual Reality Skill Training Applications</strong><br>
+            Biao Xie, Huimin Liu, Rawan Alghofaili, Yongqi Zhang, Yeling Jiang, Flavio Destri Lobo,
+            <strong>Changyang Li</strong>*,
+            Wanwan Li, Haikun Huang, Mesut Akdere, Christos Mousas,
+            <a href="https://craigyuyu.github.io/home/index.html">Lap-Fai Yu</a><br>
+            <em>Frontiers in Virtual Reality 2021</em><br>
+            <a href="/assets/paper/survey21.pdf">[Paper]</a>
+        </td>						
+    </tr>
+    <tr>
+        <td valign="top" width="255px" style="border: 0px;">
             <img src="assets/img/pub/iros19birlf.gif" width="255">
         </td>
         <td valign="top" style="border: 0px;">
@@ -43,7 +75,7 @@ cover: false
         <td valign="top" style="border: 0px;">
             <strong>Earthquake Safety Training through Virtual Drills</strong><br>
             <strong>Changyang Li</strong>,
-            <a href="http://iitlab.bit.edu.cn/mcislab/~liangwei/">Wei Liang</a>,
+            <a href="https://liangwei-bit.github.io/web/">Wei Liang</a>,
             Chris Quigley,
             <a href="http://www.yibiaozhao.com/">Yibiao Zhao</a>,
             <a href="https://craigyuyu.github.io/home/index.html">Lap-Fai Yu</a><br>
@@ -51,7 +83,7 @@ cover: false
             <em>(Special Issue on IEEE Virtual Reality 2017)</em><br>
             <a href="/assets/paper/vr17earthquake.pdf">[Paper]</a>
             <a href="https://www.youtube.com/watch?v=DlN9BJHGeyc">[Video]</a>
-            <a href="">[Project]</a> 
+            <a href="https://liangwei-bit.github.io/web/project/earthquake/">[Project]</a> 
         </td>						
     </tr>
     <tr>
@@ -60,10 +92,10 @@ cover: false
         </td>
         <td valign="top" style="border: 0px;">
             <strong>Joint Labelling and Segmentation for 3D Scanned Human Body</strong><br>
-            <a href="https://qweas120.github.io/">Hanqing Wang</a>,
+            <a href="https://hanqingwangai.github.io/">Hanqing Wang</a>,
             <strong>Changyang Li</strong>,
             Zikai Gao,
-            <a href="http://iitlab.bit.edu.cn/mcislab/~liangwei/">Wei Liang</a><br>
+            <a href="https://liangwei-bit.github.io/web/">Wei Liang</a><br>
             <em>SIGGRAPH ASIA 2016 Workshop - Virtual Reality meets Physical Reality</em><br>
             <a href="/assets/paper/siga16graphcut.pdf">[Paper]</a>
         </td>						
