@@ -8,9 +8,9 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    I am a first year Ph.D. student in Computer Science at George Mason University (GMU). I work as a Graduate Research Assistant at the Design Computing and Extended Reality (DCXR) Group, advised by [Prof. Lap-Fai Yu][yu]. Before joining GMU, I received my MCS degree in Computer Science at the University of Virginia, and BS degree in Computer Science at Beijing Institute of Technology.
+    I am a third year Ph.D. student in Computer Science at George Mason University (GMU). I work as a Graduate Research Assistant at the Design Computing and Extended Reality (DCXR) Group, advised by [Prof. Lap-Fai Yu][yu]. Before joining GMU, I received my MCS degree in Computer Science at the University of Virginia, and BS degree in Computer Science at Beijing Institute of Technology.
     
-    My research interests include computer vision, computer graphics, artificial intelligence and virtual reality.
+    My research interests are on integrating integrating computer vision/graphics and AI techniques into VR/AR applications.
     
     [[CV]][cv]
     [[Google Scholar]][scholar]
