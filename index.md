@@ -31,7 +31,7 @@ cover: false
             <a href="/assets/paper/siga21teleport.pdf">[Paper]</a>
             <a href="/assets/paper/siga21teleport_supp.pdf">[Supplementary Material]</a>
             <a href="https://www.youtube.com/watch?v=DlN9BJHGeyc">[Video]</a>
-            <a href="/assets/projects/siga21teleport/project.html">[Project]</a> 
+            <a href="/projects/siga21teleport/project.html">[Project]</a> 
         </td>						
     </tr>
     <tr>
