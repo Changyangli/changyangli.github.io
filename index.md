@@ -27,8 +27,7 @@ cover: false
             <a href="https://quincyhuang.github.io/Webpage/">Haikun Huang</a>,
             <a href="https://cs.gmu.edu/~jmlien/doku.php">Jyh-Ming Lien</a>,
             <a href="https://craigyuyu.github.io/home/index.html">Lap-Fai Yu</a><br>
-            <em>ACM Transactions on Graphics</em><br>
-            <em>(Proceeding of SIGGRAPH Asia 2020)</em><br>
+            <em>ACM Transactions on Graphics (Proceeding of SIGGRAPH Asia 2020)</em><br>
             <a href="/assets/paper/siga21teleport.pdf">[Paper]</a>
             <a href="/assets/paper/siga21teleport_supp.pdf">[Supplementary Material]</a>
             <a href="https://www.youtube.com/watch?v=DlN9BJHGeyc">[Video]</a>
@@ -79,7 +78,7 @@ cover: false
             Chris Quigley,
             <a href="http://www.yibiaozhao.com/">Yibiao Zhao</a>,
             <a href="https://craigyuyu.github.io/home/index.html">Lap-Fai Yu</a><br>
-            <em>IEEE Transactions on Visualization and Computer Graphics (TVCG), 2017</em><br>
+            <em>IEEE Transactions on Visualization and Computer Graphics (TVCG)</em><br>
             <em>(Special Issue on IEEE Virtual Reality 2017)</em><br>
             <a href="/assets/paper/vr17earthquake.pdf">[Paper]</a>
             <a href="https://www.youtube.com/watch?v=DlN9BJHGeyc">[Video]</a>
