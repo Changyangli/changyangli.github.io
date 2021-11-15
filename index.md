@@ -19,7 +19,7 @@ cover: false
 <table>
     <tr>
         <td valign="top" width="255px" style="border: 0px;">
-            <img src="assets/img/pub/siga21teleport.jpg" width="255">
+            <img src="assets/img/pub/siga21teleport.jpeg" width="255">
         </td>
         <td valign="top" style="border: 0px;">
             <strong>Synthesizing Scene-Aware Virtual Reality Teleport Graphs</strong><br>
@@ -37,7 +37,7 @@ cover: false
     </tr>
     <tr>
         <td valign="top" width="255px" style="border: 0px;">
-            <img src="assets/img/pub/survey.jpg" width="255">
+            <img src="assets/img/pub/survey21.jpg" width="255">
         </td>
         <td valign="top" style="border: 0px;">
             <strong>A Review on Virtual Reality Skill Training Applications</strong><br>
