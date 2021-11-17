@@ -27,7 +27,7 @@ cover: false
             <a href="https://quincyhuang.github.io/Webpage/">Haikun Huang</a>,
             <a href="https://cs.gmu.edu/~jmlien/doku.php">Jyh-Ming Lien</a>,
             <a href="https://craigyuyu.github.io/home/index.html">Lap-Fai Yu</a><br>
-            <em>ACM Transactions on Graphics (Proceeding of SIGGRAPH Asia 2020)</em><br>
+            <em>ACM Transactions on Graphics (Proceeding of SIGGRAPH Asia 2021)</em><br>
             <a href="/assets/paper/siga21teleport.pdf">[Paper]</a>
             <a href="/assets/paper/siga21teleport_supp.pdf">[Supplementary Material]</a>
             <a href="https://www.youtube.com/watch?v=GzZ65TkGnC0">[Video]</a>
