@@ -8,6 +8,7 @@ cover: false
 
 # News
 
+* [April 2022] One Paper accepted by ACM SIGGRAPH 2022.
 * [August 2021] One Paper accepted by ACM SIGGRAPH Asia 2021.
 * [April 2021] One Paper accepted by Frontiers in Virtual Reality.
 * [June 2019] One Paper accepted by IROS 2019.
