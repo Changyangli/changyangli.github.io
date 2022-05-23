@@ -25,7 +25,7 @@ cover: false
         <td valign="top" style="border: 0px;">
             <strong>Interactive Augmented Reality Storytelling Guided by Scene Semantics</strong><br>
             <strong>Changyang Li</strong>,
-            <a href="https://wanwanligmu.wixsite.com/mysite">Wanwan Li</a>,
+            <a href="">Wanwan Li</a>,
             <a href="https://quincyhuang.github.io/Webpage/">Haikun Huang</a>,
             <a href="https://craigyuyu.github.io/home/index.html">Lap-Fai Yu</a><br>
             ACM Transactions on Graphics (Proceeding of SIGGRAPH 2022)<br>
