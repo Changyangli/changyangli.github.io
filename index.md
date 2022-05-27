@@ -7,7 +7,7 @@ cover: false
 <!--author-->
 
 # News
-
+* [May 2022] Our SIGGRAPH 2022 paper "Interactive Augmented Reality Storytelling Guided by Scene Semantics" is featured on the <a href="https://blog.siggraph.org/2022/05/real-world-vs-ar-based-environments.html/" target="_blank">SIGGRAPH Blog</a>.
 * [April 2022] One Paper accepted by ACM SIGGRAPH 2022.
 * [August 2021] One Paper accepted by ACM SIGGRAPH Asia 2021.
 * [April 2021] One Paper accepted by Frontiers in Virtual Reality.
