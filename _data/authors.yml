@@ -2,13 +2,13 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              Changyang Li
+  name:              Changyang Li (李昌洋)
   email:             cli25@gmu.edu
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    I am a third year Ph.D. student in Computer Science at George Mason University (GMU). I work as a Graduate Research Assistant at the Design Computing and Extended Reality (DCXR) Group, advised by [Prof. Lap-Fai Yu][yu]. Before joining GMU, I received my MCS degree in Computer Science at the University of Virginia, and BS degree in Computer Science at Beijing Institute of Technology.
+    I am a Ph.D. candidate in Computer Science at George Mason University (GMU). I work as a Graduate Research Assistant at the Design Computing and Extended Reality (DCXR) Group, advised by [Prof. Lap-Fai Yu][yu]. Before joining GMU, I received my MCS degree in Computer Science at the University of Virginia, and BS degree in Computer Science at Beijing Institute of Technology.
     
     My research interests are on utilizing computer vision/graphics and AI techniques to create better VR/AR experiences.
     
