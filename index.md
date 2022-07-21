@@ -33,7 +33,7 @@ cover: false
             <a href="/assets/paper/sig22arstorytelling_supp.pdf">[Supplementary Material]</a>
             <a href="https://youtu.be/LGzH2LikEUw">[Video]</a>
             <a href="/projects/siggraph22arstorytelling">[Project]</a>
-            [Code (coming soon)] 
+            <a href="https://github.com/Changyangli/ar-storytelling">[Code]</a>
         </td>						
     </tr>
     <tr>
