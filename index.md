@@ -29,6 +29,7 @@ cover: false
             <a href="https://quincyhuang.github.io/Webpage/">Haikun Huang</a>,
             <a href="https://craigyuyu.github.io/home/index.html">Lap-Fai Yu</a><br>
             ACM Transactions on Graphics (Proceeding of SIGGRAPH 2022)<br>
+            Featured on the <a href="https://blog.siggraph.org/2022/05/real-world-vs-ar-based-environments.html/" target="_blank">SIGGRAPH Blog</a><br>
             <a href="/assets/paper/sig22arstorytelling.pdf">[Paper]</a>
             <a href="/assets/paper/sig22arstorytelling_supp.pdf">[Supplementary Material]</a>
             <a href="https://youtu.be/LGzH2LikEUw">[Video]</a>
