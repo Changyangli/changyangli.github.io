@@ -26,7 +26,7 @@ cover: false
         </td>
         <td valign="top" style="border: 0px;">
             <strong>Location-Aware Adaptation of Augmented Reality Narratives</strong><br>
-            <a>Wanwan Li</a>*,
+            Wanwan Li*,
             <strong>Changyang Li</strong>*,
             <a href="https://minyoung-mia-kim.github.io/">Minyoung Kim</a>,
             <a href="https://quincyhuang.github.io/Webpage/">Haikun Huang</a>,
