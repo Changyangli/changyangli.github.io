@@ -7,6 +7,8 @@ cover: false
 <!--author-->
 
 # News
+* [January 2022] One Paper accepted by ACM CHI 2023.
+* [January 2022] One Paper accepted by IEEE VR 2023.
 * [May 2022] Our SIGGRAPH 2022 paper "Interactive Augmented Reality Storytelling Guided by Scene Semantics" is featured on the <a href="https://blog.siggraph.org/2022/05/real-world-vs-ar-based-environments.html/" target="_blank">SIGGRAPH Blog</a>.
 * [April 2022] One Paper accepted by ACM SIGGRAPH 2022.
 * [August 2021] One Paper accepted by ACM SIGGRAPH Asia 2021.
@@ -20,12 +22,49 @@ cover: false
 <table>
     <tr>
         <td valign="top" width="255px" style="border: 0px;">
+            <img src="assets/img/pub/chi23narratives.jpg" width="255">
+        </td>
+        <td valign="top" style="border: 0px;">
+            <strong>Location-Aware Adaptation of Augmented Reality Narratives</strong><br>
+            <a>Wanwan Li</a>*,
+            <strong>Changyang Li</strong>*,
+            <a href="https://minyoung-mia-kim.github.io/">Minyoung Kim</a>,
+            <a href="https://quincyhuang.github.io/Webpage/">Haikun Huang</a>,
+            <a href="https://craigyuyu.github.io/home/index.html">Lap-Fai Yu</a><br>
+            * indicates equal contribution<br>
+            Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2023)<br>
+            <a href="">[Paper]</a>
+            <a href="">[Supplementary Material]</a>
+            <a href="">[Video]</a>
+        </td>						
+    </tr>
+    <tr>
+        <td valign="top" width="255px" style="border: 0px;">
+            <img src="assets/img/pub/vr23shop.jpg" width="255">
+        </td>
+        <td valign="top" style="border: 0px;">
+            <strong>Optimizing Product Placement for Virtual Stores</strong><br>
+            <a href="https://liangwei-bit.github.io/web/">Wei Liang</a>,
+            Luhui Wang, 
+            Xinzhe Yu,
+            <strong>Changyang Li</strong>,
+            <a href="http://rawanmg.com/">Rawan Alghofaili</a>,
+            Yining Lang,
+            <a href="https://craigyuyu.github.io/home/index.html">Lap-Fai Yu</a><br>
+            IEEE Virtual Reality (VR 2023)<br>
+            <a href="">[Paper]</a>
+            <a href="">[Supplementary Material]</a>
+            <a href="">[Video]</a>
+        </td>						
+    </tr>
+    <tr>
+        <td valign="top" width="255px" style="border: 0px;">
             <img src="assets/img/pub/sig22arstorytelling.gif" width="255">
         </td>
         <td valign="top" style="border: 0px;">
             <strong>Interactive Augmented Reality Storytelling Guided by Scene Semantics</strong><br>
             <strong>Changyang Li</strong>,
-            <a href="">Wanwan Li</a>,
+            Wanwan Li,
             <a href="https://quincyhuang.github.io/Webpage/">Haikun Huang</a>,
             <a href="https://craigyuyu.github.io/home/index.html">Lap-Fai Yu</a><br>
             ACM Transactions on Graphics (Proceeding of SIGGRAPH 2022)<br>
