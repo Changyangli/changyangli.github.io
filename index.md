@@ -33,9 +33,9 @@ cover: false
             <a href="https://craigyuyu.github.io/home/index.html">Lap-Fai Yu</a><br>
             * indicates equal contribution<br>
             Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2023)<br>
-            <a href="">[Paper]</a>
-            <a href="">[Supplementary Material]</a>
-            <a href="">[Video]</a>
+            <a href="/projects/chi23navgraph/assets/chi23-narratives.pdf">[Paper]</a>
+            <a href="/projects/chi23navgraph/assets/supp-chi23-296.pdf">[Supplementary Material]</a>
+            <a href="/projects/chi23navgraph">[Project]</a>
         </td>						
     </tr>
     <tr>
