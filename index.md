@@ -7,18 +7,16 @@ cover: false
 <!--author-->
 
 # News
-<ul>
-    <li> <font color="red">[NEW]</font> [April 2023] One Paper accepted by ACM SIGGRAPH 2023.
-    <li> [January 2023] One Paper accepted by ACM CHI 2023.
-    <li> [January 2023] One Paper accepted by IEEE VR 2023.
-    <li> [May 2022] Our SIGGRAPH 2022 paper "Interactive Augmented Reality Storytelling Guided by Scene Semantics" is featured on the <a href="https://blog.siggraph.org/2022/05/real-world-vs-ar-based-environments.html/" target="_blank">SIGGRAPH Blog</a>.
-    <li> [April 2022] One Paper accepted by ACM SIGGRAPH 2022.
-    <li> [August 2021] One Paper accepted by ACM SIGGRAPH Asia 2021.
-    <li> [April 2021] One Paper accepted by Frontiers in Virtual Reality.
-    <li> [June 2019] One Paper accepted by IROS 2019.
-    <li> [May 2019] I receive my MS degree in Computer Science at the University of Virginia.
-    <li> [April 2019] I will join <a href="https://craigyuyu.github.io/home/index.html">Prof. Lap-Fai Yu</a>'s group as a Ph.D. student starting from August 2019.
-</ul>
+* [April 2023] One Paper accepted by ACM SIGGRAPH 2023.
+* [January 2023] One Paper accepted by ACM CHI 2023.
+* [January 2023] One Paper accepted by IEEE VR 2023.
+* [May 2022] Our SIGGRAPH 2022 paper "Interactive Augmented Reality Storytelling Guided by Scene Semantics" is featured on the <a href="https://blog.siggraph.org/2022/05/real-world-vs-ar-based-environments.html/" target="_blank">SIGGRAPH Blog</a>.
+* [April 2022] One Paper accepted by ACM SIGGRAPH 2022.
+* [August 2021] One Paper accepted by ACM SIGGRAPH Asia 2021.
+* [April 2021] One Paper accepted by Frontiers in Virtual Reality.
+* [June 2019] One Paper accepted by IROS 2019.
+* [May 2019] I receive my MS degree in Computer Science at the University of Virginia.
+* [April 2019] I will join [Prof. Lap-Fai Yu][yu]'s group as a Ph.D. student starting from August 2019.
 
 # Publications
 
