@@ -19,5 +19,7 @@ I work as a Graduate Research Assistant at the Design Computing and Extended Rea
     
 My research interests include graphics, mixed reality, vision, human-computer interaction, and computational design. Specifically, I study generative social activity and human behavior/motion, and scene-aware AR/VR.
 
+Email: changyangli10@gmail.com
+
 [[CV]](/assets/cv/cv.pdf)
 [[Google Scholar]](https://scholar.google.com/citations?user=Zbx-YuUAAAAJ&hl=en)
