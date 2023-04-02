@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+</style>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Location-Aware Adaptation of Augmented Reality Narratives</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="w3.css">
+
+</head>
+
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#Abstract">Abstract</a></li>
+        <li><a href="#publications">Publications</a></li>
+        <li><a href="#Result">Result</a></li>
+        <li><a href="#Authors">Authors</a></li>
+
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section id="Abstract">
+      <div class="header">
+        <img src="imgs/Teaser.jpg">
+        <h1>Location-Aware Adaptation of Augmented Reality Narratives</h1>
+      </div>
+
+      <h1>Abstract</h1>
+      <p>The recent popularity of augmented reality (AR) devices has enabled players to participate in interactive
+        narratives through virtual events and characters populated in a real-world environment, where different actions
+        may lead to different story branches. In this paper, we propose a novel approach to adapt narratives to real
+        spaces for AR experiences. Our optimization-based approach automatically assigns contextually compatible
+        locations to story events, synthesizing a navigation graph to guide players through different story branches
+        while considering their walking experiences. We validated the effectiveness of our approach for adapting AR
+        narratives to different scenes through experiments and user studies.</p>
+
+      <p><b>Keywords</b>: interactive narratives, augmented reality, storytelling, path generation</p>
+    </section>
+
+    <section id="publications">
+      <h1>Publications</h1>
+      <p><strong style="font-size: 20px;" ">Location-Aware Adaptation of Augmented Reality Narratives</strong><br>
+            Wanwan Li*, Changyang Li*, Minyoung Kim, Haikun Huang, Lap-Fai Yu<br>
+            ACM Conference on Human Factors in Computing Systems (CHI 2023)<br>
+            <a href="./assets/chi23-narratives.pdf" style="color:rgb(71, 103, 170)">[Main paper]</a>
+          <a href="./assets/supp-chi23-296.pdf" style="color:rgb(71, 103, 170)">[Supplementary material]</a>
+          <a href="https://www.youtube.com/watch?v=32ZlTDLJwm4" style="color:rgb(71, 103, 170)">[YouTube]</a>
+          <br> * indicates equally contributed
+      </p>
+
+      <h2>Bibtex</h2>
+      <p>
+        @inproceedings{Li2023arnarratives, <br>
+        title={Location-Aware Adaptation of Augmented Reality Narratives}, <br>
+        author={ Wanwan Li and Changyang Li and Minyoung Kim and Haikun Huang and Lap-Fai Yu},<br>
+        booktitle={Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems},<br>
+        <!-- volume = {41},<br> -->
+        <!-- number = {4},<br> -->
+        year={2023},<br>
+        <!-- publisher={ACM New York, NY, USA}<br> -->
+        }<br>
+        <br>
+      </p>
+    </section>
+    <section id="Result">
+      <!-- <h1>Result</h1> -->
+
+      <h2>Experiment Results</h2>
+      <div class="w3-row-padding w3-center">
+        <div class="w3-col m3">
+          <img src="imgs/mass.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="">
+          <!-- The Modal -->
+          <div id="modal01" class="modal">
+
+            <!-- The Close Button -->
+            <span class="close" onclick="onClose(this)">&times;</span>
+
+            <!-- Modal Content (The Image) -->
+            <img class="modal-content" id="img01">
+
+            <!-- Modal Caption (Image Text) -->
+            <div id="caption"></div>
+          </div>
+        </div>
+
+        <div class="w3-col m3">
+          <img src="imgs/bonus.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="">
+        </div>
+
+        <div class="w3-col m3">
+          <img src="imgs/scalbility.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="">
+        </div>
+
+        <div class="w3-col m3">
+          <img src="imgs/omitting.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="">
+        </div>
+      </div>
+
+      <h2>Main Video</h2>
+      <div class="video-container">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/32ZlTDLJwm4" frameborder="0"
+          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+
+    </section>
+
+    <section id="Authors">
+      <div class="row1">
+        <div class="column1">
+          <div class="card">
+            <img src="imgs/wanwan.jpg" style="width:100px; height:100px; object-fit: cover;">
+            <div class="container">
+              <h5>WanWan Li*</h5>
+              <p class="title" style="margin-bottom: 5px; text-align: center;">George Mason University</p>
+              <a href="https://wanwanligmu.wixsite.com/mysite">
+                <p style="margin-bottom: 5px;"><button class="button">Webpage</button></p>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="column1">
+          <div class="card">
+            <img src="imgs/changyang.png" style="width:100px; height:100px; object-fit: cover;">
+            <div class="container">
+              <h5>Changyang Li*</h5>
+              <p class="title" style="margin-bottom: 5px; text-align: center;">George Mason University</p>
+              <a href="https://changyangli.github.io/">
+                <p style="margin-bottom: 5px;"><button class="button">Webpage</button></p>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="column1">
+          <div class="card">
+            <img src="imgs/minyoung.jpg" style="width:100px; height:100px; object-fit: cover;">
+            <div class="container">
+              <h5>Minyoung Kim</h5>
+              <p class="title" style="margin-bottom: 5px; text-align: center;">George Mason University</p>
+              <a href="https://minyoung-mia-kim.github.io/">
+                <p style="margin-bottom: 5px;"><button class="button">Webpage</button></p>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="column1">
+          <div class="card">
+            <img src="imgs/quincy.png" style="width:100px; height:100px; object-fit: cover;">
+            <div class="container">
+              <h5>Haikun Huang</h5>
+              <p class="title" style="margin-bottom: 5px; text-align: center;">George Mason University</p>
+              <a href="https://www.quincyhuanghk.com/">
+                <p style="margin-bottom: 5px;"><button class="button">Webpage</button></p>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="column1">
+          <div class="card">
+            <img src="imgs/pro_small.jpg" style="width:100px; height:100px; object-fit: cover;">
+            <div class="container">
+              <h5>Lap-Fai Yu</h5>
+              <p class="title" style="margin-bottom: 5px; text-align: center;">George Mason University</p>
+              <a href="https://craigyuyu.github.io/home/index.html">
+                <p style="margin-bottom: 5px;"><button class="button">Webpage</button></p>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <p style="padding-top: 50px;">* indicates equally contributed</p>
+      </div>
+    </section>
+
+  </main>
+  <script>
+    // Modal Image Gallery
+    function onClick(element) {
+      document.getElementById("img01").src = element.src;
+      document.getElementById("modal01").style.display = "block";
+      var captionText = document.getElementById("caption");
+      captionText.innerHTML = element.alt;
+    }
+
+    function onClose(element) {
+      document.getElementById("modal01").style.display = "none";
+    }
+    // Change style of navbar on scroll
+    window.onscroll = function () { myFunction() };
+    function myFunction() {
+      var navbar = document.getElementById("myNavbar");
+      if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+        navbar.className = "w3-bar" + " w3-card" + " w3-animate-top" + " w3-white";
+      } else {
+        navbar.className = navbar.className.replace(" w3-card w3-animate-top w3-white", "");
+      }
+    }
+
+    // Used to toggle the menu on small screens when clicking on the menu button
+    function toggleFunction() {
+      var x = document.getElementById("navDemo");
+      if (x.className.indexOf("w3-show") == -1) {
+        x.className += " w3-show";
+      } else {
+        x.className = x.className.replace(" w3-show", "");
+      }
+    }</script>
+</body>
+
+</html>
