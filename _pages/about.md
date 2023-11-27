@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 I work as a Graduate Research Assistant at the Design Computing and Extended Reality Group, advised by [Prof. Lap-Fai Yu](https://craigyuyu.github.io/home/index.html). Before that, I received my MS degree in Computer Science at the University of Virginia, and BS degree in Computer Science at Beijing Institute of Technology.
     
-My research interests include graphics, mixed reality, vision, human-computer interaction, and computational design. Specifically, I study generative social activity and human behavior/motion, and scene-aware AR/VR.
+My research interests include graphics, mixed reality, vision, human-computer interaction, and computational design. Specifically, I study generative 3D content (virtual human activities and environments, NeRFs) for facilitating AR, and (2) scene-adaptive AR/VR + HCI.
 
 Email: changyangli10@gmail.com
 
