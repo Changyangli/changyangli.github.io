@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One Paper accepted by IROS 2019
+One paper accepted by IROS 2019
