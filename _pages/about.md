@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Scientist @ Goertek Alpha Labs
+subtitle: 
 
 profile:
   align: right
