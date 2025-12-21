@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Candidate @ George Mason University. <font color='red'>I am looking for research positions.</font>
+subtitle: Research Scientist @ Goertek Alpha Labs
 
 profile:
   align: right
@@ -15,9 +15,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I work as a Graduate Research Assistant at the Design Computing and Extended Reality Group, advised by [Prof. Lap-Fai Yu](https://craigyuyu.github.io/home/index.html). Before that, I received my MS degree in Computer Science at the University of Virginia, and BS degree in Computer Science at Beijing Institute of Technology.
+I am a Research Scientist at Goertek Alpha Labs. I received my Ph.D. in Computer Science from George Mason University, where I was advised by  [Prof. Lap-Fai Yu](https://craigyuyu.github.io/home/index.html). Before that, I received my M.S. in Computer Science from the University of Virginia and my B.S. in Computer Science from the Beijing Institute of Technology.
     
-My research interests include graphics, mixed reality, vision, human-computer interaction, and computational design. Specifically, I study generative 3D content (virtual human activities and environments, NeRFs) for facilitating AR, and scene-adaptive AR/VR + HCI.
+My research interests include computer graphics, computer vision, mixed reality, and human–computer interaction. Specifically, I study scene understanding and perception, generative modeling of human activities and environments, and scene-adaptive AR/VR with HCI.
 
 Email: changyangli10@gmail.com
 
