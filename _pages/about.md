@@ -22,4 +22,5 @@ My research interests include computer vision, computer graphics, extended reali
 Email: changyangli10@gmail.com
 
 [[Resume]](/assets/resume/resume.pdf)
+[[LinkedIn]](https://www.linkedin.com/in/changyang-li-585545254/)
 [[Google Scholar]](https://scholar.google.com/citations?user=Zbx-YuUAAAAJ&hl=en)
