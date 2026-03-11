@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Visual Localization
-description: with background image
+# description: with background image
 img: assets/img/project_preview/visual_localization.gif
 importance: 1
 category: Scene Understand & Perception
