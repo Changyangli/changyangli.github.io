@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Feed-Forward 3D Reconstruction and Understanding
+title: Feed-Forward 3D Reconstruction & Understanding
 # description: with background image
 img: assets/img/project_preview/ff_3r_understanding.gif
 importance: 1
