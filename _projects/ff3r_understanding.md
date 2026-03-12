@@ -4,7 +4,7 @@ title: Feed-Forward 3D Reconstruction & Understanding
 # description: with background image
 img: assets/img/project_preview/ff_3r_understanding.gif
 importance: 1
-category: Scene Understand & Perception
+category: Scene Understanding & Perception
 related_publications: true
 ---
 

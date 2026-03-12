@@ -5,7 +5,7 @@ permalink: /projects/
 # description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: [Scene Understand & Perception]
+display_categories: [Generative 3D Content, Scene Understanding & Perception]
 horizontal: false
 ---
 
