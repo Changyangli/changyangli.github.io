@@ -20,12 +20,12 @@ At its core, this system acts as a intelligent digital stunt double that listens
 
 - **The Mark (Target Location)**: The specific destination coordinate or object within that scene.
 
-Using a Diffusion Model, we "sculpt" raw temporal data into fluid movement. However, instead of just generating an isolated action, our system continuously cross-references the scene's geometry and the target destination. The output of is a rich, generative SMPL motion sequence.
+Using a <a href="https://lilianweng.github.io/posts/2021-07-11-diffusion-models/#:~:text=Diffusion%20models%20are%20inspired%20by,data%20samples%20from%20the%20noise">Diffusion Model</a>, we "sculpt" raw temporal data into fluid movement. However, instead of just generating an isolated action, our system continuously cross-references the scene's geometry and the target destination. The output of is a rich, generative <a href="https://smpl.is.tue.mpg.de/">SMPL</a> motion sequence.
 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_preview/text2motion.gif" title="text-to-motion" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_preview/text2motion.gif" title="text-to-motion" class="img-fluid rounded z-depth-1 w-75" %}
     </div>
 </div>
 
